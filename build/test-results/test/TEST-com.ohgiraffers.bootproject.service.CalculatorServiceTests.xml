@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ohgiraffers.bootproject.service.CalculatorServiceTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2024-04-04T00:15:08" hostname="ideubolas-MacBook-Air.local" time="0.009">
+  <properties/>
+  <testcase name="[1] input=CalculatorDTO(num1=1, num2=2, sum=0)" classname="com.ohgiraffers.bootproject.service.CalculatorServiceTests" time="0.006"/>
+  <testcase name="[2] input=CalculatorDTO(num1=3, num2=5, sum=0)" classname="com.ohgiraffers.bootproject.service.CalculatorServiceTests" time="0.001"/>
+  <testcase name="[3] input=CalculatorDTO(num1=10, num2=-2, sum=0)" classname="com.ohgiraffers.bootproject.service.CalculatorServiceTests" time="0.001"/>
+  <system-out><![CDATA[?[2m2024-04-04T09:15:08.344+09:00?[0;39m ?[32m INFO?[0;39m ?[35m34841?[0;39m ?[2m---?[0;39m ?[2m[    Test worker]?[0;39m ?[2m?[0;39m?[36mt.c.s.AnnotationConfigContextLoaderUtils?[0;39m ?[2m:?[0;39m Could not detect default configuration classes for test class [com.ohgiraffers.bootproject.service.CalculatorServiceTests]: CalculatorServiceTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+?[2m2024-04-04T09:15:08.347+09:00?[0;39m ?[32m INFO?[0;39m ?[35m34841?[0;39m ?[2m---?[0;39m ?[2m[    Test worker]?[0;39m ?[2m?[0;39m?[36m.b.t.c.SpringBootTestContextBootstrapper?[0;39m ?[2m:?[0;39m Found @SpringBootConfiguration com.ohgiraffers.bootproject.BootProjectApplication for test class com.ohgiraffers.bootproject.service.CalculatorServiceTests
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
